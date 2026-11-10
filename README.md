@@ -1,4 +1,4 @@
-# Aligner
+# Task Creator ALG
 
 A portable workspace for independent software engineering practice. The starter is [schedule 1.2.2](https://github.com/dbader/schedule/tree/1.2.2) at commit `82a43db1b938d8fdf60103bd41f329e06c8d3651`. The original source and license are in `starter/`. `schedule-1.2.2-starter.zip` is the original archive prepared for the exercise.
 
