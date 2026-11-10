@@ -1,0 +1,19 @@
+# Local development files
+.DS_Store
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+node_modules/
+*.pyc
+
+# Local configuration and credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
